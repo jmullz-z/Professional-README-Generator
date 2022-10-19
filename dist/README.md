@@ -1,5 +1,5 @@
-# n
-  # n
+# README-Generator
+  # README-Generator
   
   
   ![badge](https://img.shields.io/badge/license-undefined-blue)
@@ -15,13 +15,13 @@
   * [Questions](#questions)
   
   ## [Description]
-  m
-  m
-  m
+  This app allows users to create a professional  README.md
+  This was a requirement to graduate from UNC bootcamp
+  This is a text file that introduces and explains a project. It contains information that is commonly required to understnd what the project is about
   ## [Installation]
-  m
+  download/clone the github repo and install dependancies such as node.js and inquirer from the npm lib. Using the terminal tyoe node command to promt the program and answer a series of questions.
   ## [Usage]
-  m
+  Using the terminal type node command to promt the program and answer a series of queestions
   For more information on how to add screenshots for examples, visit the following website:
   [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
   
@@ -29,8 +29,8 @@
   ## [Contributing]
   undefined
   ## [Tests]
-  n 
+  You can test the app by using dillinger since it works and sAves all of your documents in the   browser's local database
   ## [Questions]
   Please contact me using the following links:
-  [GitHub](https://github.com/n)
-  [Email: m](mailto:m)
+  [GitHub](https://github.com/jmullz-z)
+  [Email: email@nc.rr.com](mailto:email@nc.rr.com)
